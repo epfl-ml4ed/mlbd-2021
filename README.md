@@ -1,4 +1,4 @@
-# PRIVATE Machine Learning for Behavioral Data @ EPFL 
+# Machine Learning for Behavioral Data @ EPFL (CS-421)
 
 ## Introduction
 In this class, you will have the opportunity of attending hands-on tutorials to move the lecture concepts to code and play with tools and functions you will use for implementing your project in the second half of the semester. To ensure you will be ready for starting the project, you will be asked to solve homework exercises that challenge you on applying the concepts explained in the lectures and the programming solution shown in the tutorials.
