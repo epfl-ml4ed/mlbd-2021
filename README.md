@@ -9,7 +9,7 @@ For tutorials and homework, you will rely on the packages provided for data anal
 The goal of lab sessions is for you to learn how to apply different concepts to the analysis of behavioral data and the implementation of machine-learning approaches suitable for predictive tasks. Through the tutorials, we aim to provide you with guidance on how to set up a programming environment and on which and how the most important packages can be used to deal with behavioral data. By the end of lab sessions, you should be able to: 
 - Setup a programming environment for running projects on behavioral data. 
 - Understand and apply programming tools and functions for data handling and visualization. 
-- Code experimental pipelines for prediction and regression analyses.
+- Code experimental pipelines for classification and regression analyses.
 - Implement neural networks and integrate them in experimental pipelines. 
 - Create experimental pipelines for analyses that require unsupervised learning techniques. 
 - Develop recommendation pipelines, from behavioral data to recommended lists. 
